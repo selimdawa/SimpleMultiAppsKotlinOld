@@ -6,7 +6,7 @@
  <a href="https://kotlinlang.org"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-1.9.22-blue?logo=kotlin&logoColor=white"/></a>
 </p>
 
-- [Kotlin New Code Version](https://github.com/selimdawa/LittleMusicKotlin/)
+- [Kotlin New Code Version](https://github.com/selimdawa/SimpleMultiAppsKotlin/)
 
 # `.0 Main ` :
 
